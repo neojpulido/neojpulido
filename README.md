@@ -1,113 +1,68 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" alt="Typing SVG" />
+
+<br/>
+
 # Juan Pulido
 
-**Senior Solutions Architect · Enterprise AI Architecture**
-**15+ Years in Banking, Insurance, Telecom & Government**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-neojpulido-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/neojpulido)
-[![X](https://img.shields.io/badge/X-neojpulido-000000?style=flat&logo=x)](https://x.com/neojpulido)
-[![Mastodon](https://img.shields.io/badge/Mastodon-neojpulido-6364FF?style=flat&logo=mastodon)](https://awscommunity.social/@neojpulido)
-[![Website](https://img.shields.io/badge/jpulido.com-333333?style=flat&logo=safari&logoColor=white)](https://jpulido.com)
-[![Email](https://img.shields.io/badge/contact@jpulido.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@jpulido.com)
-[![Location](https://img.shields.io/badge/Melbourne%2C%20AU-available%20AU%20·%20LATAM%20·%20Spain-00843D?style=flat)](https://jpulido.com)
+[![Website](https://img.shields.io/badge/jpulido.com-000?style=flat-square)](https://jpulido.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neojpulido)&nbsp;
+[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/neojpulido)&nbsp;
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://awscommunity.social/@neojpulido)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@jpulido.com)
 
-</div>
+<br/>
 
 ---
 
-I architect AI systems that actually work in regulated industries — where security, compliance, and auditability aren't optional. With 15+ years delivering mission-critical platforms for banks, insurers, and governments across Latin America and Australia, I now specialise in bringing that same production discipline to Enterprise AI: MLOps/LLMOps pipelines, RAG systems, vector databases, and agentic workflows across AWS, Azure, and GCP.
+I build AI systems that work in the real world, in regulated industries where **reliability, compliance, and auditability** are the baseline, not the stretch goal.
 
-Currently finishing a **Master of AI at Monash University** (High Distinction) and building open-source reference architectures for regulated AI deployment. Available for contract and project-based work in English and Spanish.
+15+ years of enterprise architecture across banking, insurance, telecom, and government. Now focused on **MLOps/LLMOps, RAG, and agentic workflows** on AWS · Azure · GCP.
 
-> 🤝 **Looking for an Enterprise AI consultant for your regulated-industry project?** → [contact@jpulido.com](mailto:contact@jpulido.com)
+Pursuing a **Master of AI at Monash University** · High Distinction · Melbourne, AU.
 
----
-
-## 🔬 What I'm building now
-
-- **Production RAG reference architecture** — end-to-end pipeline with vector DB, monitoring, and compliance controls for banking/insurance use cases
-- **MLOps/LLMOps templates** — multi-cloud deployment patterns (AWS · Azure · GCP) with HA, observability, and audit logging baked in
-- **Master of AI thesis** — Monash University, High Distinction average
-- **Writing** — practical guides on AI governance and production readiness for regulated environments
+Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
 
 ---
 
-## 🧠 Core expertise
+**Now**
 
-![Enterprise AI](https://img.shields.io/badge/Enterprise%20AI%20Architecture-1D9E75?style=flat)
-![MLOps](https://img.shields.io/badge/MLOps%20%2F%20LLMOps-1D9E75?style=flat)
-![RAG](https://img.shields.io/badge/RAG%20Systems-1D9E75?style=flat)
-![Agentic Workflows](https://img.shields.io/badge/Agentic%20Workflows-1D9E75?style=flat)
-![Solutions Architecture](https://img.shields.io/badge/Solutions%20Architecture-185FA5?style=flat)
-![Cloud](https://img.shields.io/badge/AWS%20·%20Azure%20·%20GCP-185FA5?style=flat)
-![Security](https://img.shields.io/badge/Security%20%26%20Compliance-185FA5?style=flat)
-![RPA](https://img.shields.io/badge/Intelligent%20Automation%20%2F%20RPA-534AB7?style=flat)
-![ECM](https://img.shields.io/badge/ECM%20%2F%20BPM-534AB7?style=flat)
-![Technical Leadership](https://img.shields.io/badge/Technical%20Leadership-534AB7?style=flat)
-
-**AI / MLOps stack:**
-`MLflow` `SageMaker` `Azure ML` `Vertex AI` `Pinecone` `Weaviate` `pgvector` `LangChain` `LlamaIndex`
-
-**Cloud & DevOps:**
-`AWS` `Azure` `GCP` `Terraform` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`
-
-**Automation & ECM:**
-`Blue Prism` `Automation Anywhere` `UiPath` `IBM FileNet P8` `IBM BPM` `Appian` `OutSystems` `MuleSoft`
-
-**Languages:**
-`Python` `Java` `C#` `JavaScript` `SQL`
+Building open-source RAG & MLOps reference architectures for regulated environments
+Master of Artificial Intelligence at Monash University *(High Distinction)*
 
 ---
 
-## 📌 Featured work
+**Stack**
 
-| Project | What it is |
-|---|---|
-| 🔗 [RAG Pipeline for Regulated Industries](#) | Production-ready RAG with compliance controls, audit logging, and multi-cloud support |
-| 🔗 [MLOps Reference Architecture](#) | End-to-end ML pipeline scaffold — training, deployment, monitoring across AWS/Azure/GCP |
-| 🔗 [Agentic Workflow Templates](#) | Modular agentic patterns with guardrails designed for enterprise governance requirements |
-| 📖 [RPA Implementation eBook](#) | Co-authored the industry's first RPA implementation guide — financial services focus |
-
-> ⚠️ *Replace `#` links above with your actual repo and publication URLs.*
-
----
-
-## 🏦 Selected clients & industries
-
-**Banking:** Banco de Crédito del Perú · BBVA · Caja Arequipa · Caribbean Development Bank
-**Insurance:** Rimac Seguros · La Positiva Seguros · Seguros del Pichincha
-**Government:** SUNAT (Peru Tax Authority) · OSCE · ONP
-**Telecom:** Telefónica
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000?style=flat-square&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-## 🎓 Education
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neojpulido&theme=default)
 
-**Master of Artificial Intelligence** *(in progress — High Distinction average)*
-Monash University, Melbourne, Australia
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true)
 
-**Bachelor of Computer and Systems Engineering**
-Universidad Peruana de las Américas, Lima, Peru
+![Streak Stats](https://streak-stats.demolab.com?user=neojpulido&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neojpulido&layout=compact&hide_border=true&hide_title=true&theme=default)
 
-## 🌍 Availability
-
-| | |
-|---|---|
-| **Engagement** | Contract · Part-time · Project-based · Freelance |
-| **Languages** | English (professional) · Spanish (native) |
-| **Markets** | Australia · Latin America · Spain |
-| **Location** | Melbourne, VIC — open to local and remote international work |
-
----
-
-<div align="center">
-
-**Senior architect. Production mindset. AI-ready.**
-Built for organisations where "move fast and break things" is not an option.
+<br/>
 
 [jpulido.com](https://jpulido.com) · [contact@jpulido.com](mailto:contact@jpulido.com)
+
+<br/>
 
 </div>

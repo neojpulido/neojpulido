@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" alt="Typing SVG" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+</picture>
 
 <br/>
 
@@ -51,13 +55,13 @@ Master of Artificial Intelligence at Monash University *(High Distinction)*
 
 ---
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neojpulido&theme=default)
+<br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true)
-
-![Streak Stats](https://streak-stats.demolab.com?user=neojpulido&hide_border=true&theme=default&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neojpulido&layout=compact&hide_border=true&hide_title=true&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=github-dark&custom_title=2026+Contributions&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
+</picture>
 
 <br/>
 

@@ -9,13 +9,10 @@
 <br/>
 
 # Juan Pulido
-
-<br/>
+*Building production-grade AI for regulated industries*
 
 [![Website](https://img.shields.io/badge/jpulido.com-000?style=flat-square)](https://jpulido.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neojpulido)&nbsp;
-[![X](https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white)](https://x.com/neojpulido)&nbsp;
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://awscommunity.social/@neojpulido)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@jpulido.com)
 
 <br/>
@@ -62,10 +59,6 @@ Master of Artificial Intelligence at Monash University *(High Distinction)*
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
 </picture>
-
-<br/>
-
-[jpulido.com](https://jpulido.com) · [contact@jpulido.com](mailto:contact@jpulido.com)
 
 <br/>
 

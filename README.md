@@ -1,42 +1,43 @@
 <div align="center">
 
+# Juan Pulido
+
+### Building production-grade AI for regulated industries
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
 </picture>
 
 <br/>
-
-# Juan Pulido
-*Building production-grade AI for regulated industries*
 
 [![Website](https://img.shields.io/badge/jpulido.com-555?style=flat-square&logo=safari&logoColor=white)](https://jpulido.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/neojpulido)&nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@jpulido.com)
 
+</div>
+
+<br/>
+
+I build AI systems for regulated industries — banking, insurance, and government — where **reliability, compliance, and auditability** are non-negotiable.
+
+15+ years in enterprise architecture. Now focused on **MLOps/LLMOps, RAG, and agentic workflows** across AWS · Azure · GCP.
+Pursuing a **Master of AI at Monash University** · High Distinction · Melbourne, AU.
+Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
+
 <br/>
 
 ---
 
-I build AI systems that work in the real world, in regulated industries where **reliability, compliance, and auditability** are the baseline, not the stretch goal.
+### Now
 
-15+ years of enterprise architecture across banking, insurance, telecom, and government. Now focused on **MLOps/LLMOps, RAG, and agentic workflows** on AWS · Azure · GCP.
-
-Pursuing a **Master of AI at Monash University** · High Distinction · Melbourne, AU.
-
-Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
+- Building open-source RAG & MLOps reference architectures for regulated environments
+- Master of Artificial Intelligence at Monash University *(High Distinction)*
 
 ---
 
-**Now**
-
-Building open-source RAG & MLOps reference architectures for regulated environments
-Master of Artificial Intelligence at Monash University *(High Distinction)*
-
----
-
-**Stack**
+### Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -51,6 +52,8 @@ Master of Artificial Intelligence at Monash University *(High Distinction)*
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
+
+<div align="center">
 
 <br/>
 

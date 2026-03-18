@@ -20,10 +20,11 @@
 
 <br/>
 
-I build AI systems for regulated industries — banking, insurance, and government — where **reliability, compliance, and auditability** are non-negotiable.
+I build AI systems for regulated industries such as banking, insurance, and government, where **reliability, compliance, and auditability** are non-negotiable.
 
 15+ years in enterprise architecture. Now focused on **MLOps/LLMOps, RAG, and agentic workflows** across AWS · Azure · GCP.
 Pursuing a **Master of AI at Monash University** · High Distinction · Melbourne, AU.
+<br>
 Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
 
 <br/>

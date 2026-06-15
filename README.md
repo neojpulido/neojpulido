@@ -2,12 +2,12 @@
 
 # Juan Pulido
 
-### Building production-grade AI for regulated industries
+### Enterprise AI for regulated industries
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Senior+Solutions+Architect+%C2%B7+Enterprise+AI;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government+%C2%B7+Telecom" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=AAAAAA&center=true&vCenter=true&width=500&lines=Enterprise+AI+Architect;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Enterprise+AI+Architect;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government" />
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&pause=1000&color=6E6E6E&center=true&vCenter=true&width=500&lines=Enterprise+AI+Architect;MLOps+%C2%B7+RAG+%C2%B7+Agentic+Workflows;Banking+%C2%B7+Insurance+%C2%B7+Government" />
 </picture>
 
 <br/>
@@ -20,10 +20,9 @@
 
 <br/>
 
-I build AI systems for regulated industries such as banking, insurance, and government, where **reliability, compliance, and auditability** are non-negotiable.
+Since 2010, I've built the systems banks, insurers and governments cannot afford to get wrong. AI that ships into production, passes the audit and keeps running.
 
-15+ years in enterprise architecture. Now focused on **MLOps/LLMOps, RAG, and agentic workflows** across AWS · Azure · GCP.
-Pursuing a **Master of AI at Monash University** · High Distinction · Melbourne, AU.
+Now focused on **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS · Azure · GCP. Master of AI at Monash University · Melbourne.
 <br>
 Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
 
@@ -31,10 +30,9 @@ Available for contract work in **English** and **Spanish** across AU · LATAM ·
 
 ---
 
-### Now
+### Currently
 
-- Building open-source RAG & MLOps reference architectures for regulated environments
-- Master of Artificial Intelligence at Monash University *(High Distinction)*
+- Building open-source RAG and MLOps reference architectures for regulated environments
 
 ---
 
@@ -59,9 +57,9 @@ Available for contract work in **English** and **Spanish** across AU · LATAM ·
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=github-dark&custom_title=2026+Contributions&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=2026+Contributions&area=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=github-dark&custom_title=Contributions&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=Contributions&area=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=Contributions&area=true" />
 </picture>
 
 <br/>

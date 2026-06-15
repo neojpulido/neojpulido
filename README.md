@@ -41,13 +41,20 @@ Today that means **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS 
 **Enterprise AI and MLOps**<br/>
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 ![SageMaker](https://img.shields.io/badge/SageMaker-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AzureML](https://img.shields.io/badge/AzureML-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Vertex](https://img.shields.io/badge/Vertex-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LLM Orchestration](https://img.shields.io/badge/LLM_Orchestration-00A67E?style=flat)
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-5C4EE5?style=flat)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-5C4EE5?style=flat)
-![Model Monitoring](https://img.shields.io/badge/Model_Monitoring-FF6F00?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat)
+![RAG](https://img.shields.io/badge/RAG-5C4EE5?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat)
+![Langfuse](https://img.shields.io/badge/Langfuse-0B0B0B?style=flat)
+![Evidently](https://img.shields.io/badge/Evidently-FF6F00?style=flat)
+![Governance](https://img.shields.io/badge/Governance-E74C3C?style=flat)
+
+<br/>
 
 **Cloud and DevOps**<br/>
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
@@ -60,47 +67,53 @@ Today that means **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat)
+![Sonar](https://img.shields.io/badge/Sonar-F3702A?style=flat&logo=sonar&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Intelligent Automation**<br/>
-![IBM FileNet P8](https://img.shields.io/badge/IBM_FileNet_P8-052FAD?style=flat&logo=ibm&logoColor=white)
-![IBM Case Manager](https://img.shields.io/badge/IBM_Case_Manager-052FAD?style=flat&logo=ibm&logoColor=white)
-![IBM Datacap](https://img.shields.io/badge/IBM_Datacap-052FAD?style=flat&logo=ibm&logoColor=white)
-![OpenText Documentum](https://img.shields.io/badge/OpenText_Documentum-0066B3?style=flat)
+<br/>
+
+**Enterprise Automation**<br/>
+![FileNet](https://img.shields.io/badge/FileNet-052FAD?style=flat&logo=ibm&logoColor=white)
+![Documentum](https://img.shields.io/badge/Documentum-0066B3?style=flat)
 ![Alfresco](https://img.shields.io/badge/Alfresco-4BA22E?style=flat)
-![IBM BPM](https://img.shields.io/badge/IBM_BPM-052FAD?style=flat&logo=ibm&logoColor=white)
+![BPM](https://img.shields.io/badge/BPM-052FAD?style=flat&logo=ibm&logoColor=white)
 ![Appian](https://img.shields.io/badge/Appian-2D2D2D?style=flat)
-![Blue Prism](https://img.shields.io/badge/Blue_Prism-0050EF?style=flat)
-![Automation Anywhere](https://img.shields.io/badge/Automation_Anywhere-FF5C00?style=flat)
+![BluePrism](https://img.shields.io/badge/BluePrism-0050EF?style=flat)
+![AutomationAnywhere](https://img.shields.io/badge/AutomationAnywhere-FF5C00?style=flat)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
-![IBM RPA](https://img.shields.io/badge/IBM_RPA-052FAD?style=flat&logo=ibm&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-052FAD?style=flat&logo=ibm&logoColor=white)
 ![OutSystems](https://img.shields.io/badge/OutSystems-D9402A?style=flat)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A0DF?style=flat&logo=mulesoft&logoColor=white)
 
+<br/>
+
 **Databases**<br/>
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![IBM DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat&logo=ibm&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![DB2](https://img.shields.io/badge/DB2-052FAD?style=flat&logo=ibm&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**App servers and OS**<br/>
-![IBM WebSphere](https://img.shields.io/badge/IBM_WebSphere-052FAD?style=flat&logo=ibm&logoColor=white)
-![Oracle WebLogic](https://img.shields.io/badge/Oracle_WebLogic-F80000?style=flat&logo=oracle&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-D1A41A?style=flat&logo=apachetomcat&logoColor=white)
-![IBM AIX](https://img.shields.io/badge/IBM_AIX-052FAD?style=flat&logo=ibm&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat)
+<br/>
 
-**Programming**<br/>
+**Platforms**<br/>
+![WebSphere](https://img.shields.io/badge/WebSphere-052FAD?style=flat&logo=ibm&logoColor=white)
+![WebLogic](https://img.shields.io/badge/WebLogic-F80000?style=flat&logo=oracle&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-D1A41A?style=flat&logo=apachetomcat&logoColor=white)
+![AIX](https://img.shields.io/badge/AIX-052FAD?style=flat&logo=ibm&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat)
+
+<br/>
+
+**Languages**<br/>
 ![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-![SOAP](https://img.shields.io/badge/SOAP-8993BE?style=flat)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
 
 ---
 

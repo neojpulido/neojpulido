@@ -20,9 +20,9 @@
 
 <br/>
 
-Since 2010, I've built the systems banks, insurers and governments cannot afford to get wrong. AI that ships into production, passes the audit and keeps running.
+Since 2010, I've built the systems banks, insurers and governments cannot afford to get wrong. The hard part was never the model. It is shipping AI into production, passing the audit and keeping it running.
 
-Now focused on **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS · Azure · GCP. Master of AI at Monash University · Melbourne.
+Today that means **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS · Azure · GCP. Master of AI at Monash University · Melbourne.
 
 > Available for contract work in **English** and **Spanish** across AU · LATAM · Spain.
 

@@ -117,16 +117,4 @@ Today that means **MLOps/LLMOps**, **RAG** and **agentic workflows** across AWS 
 
 ---
 
-<div align="center">
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=github-dark&custom_title=Contributions&area=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=Contributions&area=true" />
-  <img alt="Juan Pulido GitHub contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=neojpulido&hide_border=true&theme=minimal&custom_title=Contributions&area=true" />
-</picture>
-
-<br/>
-
-</div>
